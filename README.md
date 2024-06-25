@@ -1,12 +1,14 @@
 # Projeto EBOOK Gerado por I.A.s
 
-![EBook](./assets/demonstrative.png)
+<p align="center">
+    <img src="./assets/demonstrative.png" width="350" />
+</p>
 
-Este repositório contém um E-book criado como parte do curso da Digital Innovation One (DIO).
+> Este repositório contém um E-book criado como parte do curso da Digital Innovation One (DIO).
 
 ## 🔗 Link do Projeto
 
-[Clique aqui começar a leitura 📚](https://chat.openai.com/) 
+[Clique aqui começar a leitura 📚](https://github.com/AnaYukimoto/Ebook-DIO/blob/main/output/Ebook_IA.pdf) 
 
 ## 💻 Tecnologias Utilizadas no Projeto
 
