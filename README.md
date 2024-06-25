@@ -1,7 +1,7 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-book Gerado por I.A.s
 
 <p align="center">
-    <img src="./assets/demonstrative.png" width="350" />
+    <img src="./assets/demonstrative.png" width="400" />
 </p>
 
 > Este repositório contém um E-book criado como parte do curso da Digital Innovation One (DIO).
